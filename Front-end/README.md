@@ -23,11 +23,11 @@ I've been putting off learning React for a long time as I was traumatized by the
 - ✅ Section 2 : The MERN Stack - Theory
 - ✅ Section 3 : Planning the App
 - ✅ Section 4 : React.js - A Refresher
-- Section 5 : React.js - Building the Frontend
-- Section 6 : Node.js & Express.js - A Refresher
-- Section 7 : Node.js & Express.js - Building our REST API
-- Section 8 : Working with MongoDB & Mongoose - A Refresher
-- Section 9 : Connecting the Backend to the Database - MongoDB & Mongoose
+- ✅ Section 5 : React.js - Building the Frontend
+- ✅ Section 6 : Node.js & Express.js - A Refresher
+- ✅ Section 7 : Node.js & Express.js - Building our REST API
+- ✅ Section 8 : Working with MongoDB & Mongoose - A Refresher
+- ✅ Section 9 : Connecting the Backend to the Database - MongoDB & Mongoose
 - Section 10 : Connecting the React.js Frontend to Backend
 - Section 11 : Adding File Upload
 - Section 12 : Adding Authentication
@@ -35,7 +35,7 @@ I've been putting off learning React for a long time as I was traumatized by the
 - Section 14 : Roundup and Next Steps
 
 # Key Takeaways
-## 14/01/2021
+## 25/08/2022
 ### Important Basics
 - Syntax, Imports, Exports, Third-Party Libraries
 - Components
@@ -44,7 +44,7 @@ I've been putting off learning React for a long time as I was traumatized by the
 - React.Fragment
 - Portals
 - useState
-## 15/01/2021
+## 01/08/2022
 - CSSTransitions third party packages
 - Dynamic Routes
 - { useParams }
@@ -53,9 +53,9 @@ I've been putting off learning React for a long time as I was traumatized by the
 - { useRef }
 - { useEffect }
 
-## 05/05/2021
+## 05/08/2022
 - { useReducer }
 - { useCallback }
 
-## 01/12/2021
+## 10/08/2022
 - Context
