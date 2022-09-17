@@ -2,13 +2,6 @@
 
 Documenting my process of learning to build a full MERNStack application following Maximilian Schwarzmüller's (Academind) tutorial on Udemy **React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**
 
-Here is a prety cool screenshot of Section 5 progress on Lesson 47:
-
-![alt text](https://github.com/JChinoz/MERNStack/blob/main/public/images/PrettyCool.PNG)
-
-*Noctis High Contrast theme looks pretty cool and gives me such a cyberpunk vibe*
-
-
 # Pros and Cons (based on my experience so far)
 - Easy to weave in to any basic HTML projects. Its lightweight, doesn't have too much bloat. Use extensions only when needed. Easy to understand and refactor into current HTML as it is able to compartmentalize large chunks of HTML code in a page into smaller components.
 - Props is an odd way of transferring data from one element to another. I wonder if there's another app-wide way to do it...
