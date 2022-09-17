@@ -8,7 +8,6 @@ Here is a prety cool screenshot of Section 5 progress on Lesson 47:
 
 *Noctis High Contrast theme looks pretty cool and gives me such a cyberpunk vibe*
 
-I've been putting off learning React for a long time as I was traumatized by the learning curve when I first dipped my toes into Angular. It was such a disaster learning it back then as I have no prior experience in coding on web languages. Surprisingly turned out to be very easy to get my head around as it acts like a mini-extension to compartmentalize HTML rather than a full blown framework with Routers, Providers and Services (sigh Angular) and a very complex coding tree structure (looking at you Flutter).
 
 # Pros and Cons (based on my experience so far)
 - Easy to weave in to any basic HTML projects. Its lightweight, doesn't have too much bloat. Use extensions only when needed. Easy to understand and refactor into current HTML as it is able to compartmentalize large chunks of HTML code in a page into smaller components.
