@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# MERNStack
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Documenting my process of learning to build a full MERNStack application following Maximilian Schwarzmüller's (Academind) tutorial on Udemy **React, NodeJS, Express & MongoDB - The MERN Fullstack Guide**
 
-## Available Scripts
+Here is a prety cool screenshot of Section 5 progress on Lesson 47:
 
-In the project directory, you can run:
+![alt text](https://github.com/JChinoz/MERNStack/blob/main/public/images/PrettyCool.PNG)
 
-### `npm start`
+*Noctis High Contrast theme looks pretty cool and gives me such a cyberpunk vibe*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I've been putting off learning React for a long time as I was traumatized by the learning curve when I first dipped my toes into Angular. It was such a disaster learning it back then as I have no prior experience in coding on web languages. Surprisingly turned out to be very easy to get my head around as it acts like a mini-extension to compartmentalize HTML rather than a full blown framework with Routers, Providers and Services (sigh Angular) and a very complex coding tree structure (looking at you Flutter).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Pros and Cons (based on my experience so far)
+- Easy to weave in to any basic HTML projects. Its lightweight, doesn't have too much bloat. Use extensions only when needed. Easy to understand and refactor into current HTML as it is able to compartmentalize large chunks of HTML code in a page into smaller components.
+- Props is an odd way of transferring data from one element to another. I wonder if there's another app-wide way to do it...
+- Unfamiliar with the syntax but not different enough that I can't figure out where I should put curly brackets and where I should use JSX. Due to how lightweight the app feels on hot reload, I could just learn by trial-and-error to get familiar with the syntax.
+- Seems like I really need to pick up Max Schwartz's separate Udemy course on React after this because the whole Hooks concept is much much more than what it seems to an amateur experimenter like me. I find it really difficult to understand and I couldn't follow in sections where Hooks are being used (which, frankly, is most of it where state is concerned).
 
-### `npm test`
+**Total Hours Required : 18.5**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Progress on Completed Sections
+- ✅ Section 1 : Introduction
+- ✅ Section 2 : The MERN Stack - Theory
+- ✅ Section 3 : Planning the App
+- ✅ Section 4 : React.js - A Refresher
+- Section 5 : React.js - Building the Frontend
+- Section 6 : Node.js & Express.js - A Refresher
+- Section 7 : Node.js & Express.js - Building our REST API
+- Section 8 : Working with MongoDB & Mongoose - A Refresher
+- Section 9 : Connecting the Backend to the Database - MongoDB & Mongoose
+- Section 10 : Connecting the React.js Frontend to Backend
+- Section 11 : Adding File Upload
+- Section 12 : Adding Authentication
+- Section 13 : Application Deployment
+- Section 14 : Roundup and Next Steps
 
-### `npm run build`
+# Key Takeaways
+## 14/01/2021
+### Important Basics
+- Syntax, Imports, Exports, Third-Party Libraries
+- Components
+- Props
+- Routes
+- React.Fragment
+- Portals
+- useState
+## 15/01/2021
+- CSSTransitions third party packages
+- Dynamic Routes
+- { useParams }
+- Multi-component setup. Forwarding props to component within a component (Componentception)
+- Google Maps API SDK
+- { useRef }
+- { useEffect }
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 05/05/2021
+- { useReducer }
+- { useCallback }
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 01/12/2021
+- Context

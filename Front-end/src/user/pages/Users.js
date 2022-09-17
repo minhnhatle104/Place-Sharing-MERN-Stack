@@ -6,9 +6,9 @@ const Users = () => {
   const USERS = [
     {
       id: "u1",
-      name: "Max Schwarz",
+      name: "Max Schwartz",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+        "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/5/29/1369827994288/Aaron-Swartz-internet-act-010.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39bf4220cbb52d69de6a240c63a21193",
       places: 3,
     },
   ];
